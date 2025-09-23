@@ -3,11 +3,12 @@ google-auth-oauthlib
 google-auth-httplib2
 google-api-python-client
 groq
-langchain
-langchain-community
-langgraph
+langchain==0.3.27
+langchain-community==0.3.29
+langgraph==0.6.7
 faiss-cpu
-sentence-transformers
+sentence-transformers==2.7.0
+torch>=2.0.0 --index-url https://download.pytorch.ord/whl/cpu
 langchain-huggingface
 pytest
 fastapi

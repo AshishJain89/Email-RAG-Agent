@@ -1,0 +1,24 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+.env
+
+# Node
+node_modules/
+npm-debug.log
+frontend/node_modules
+
+# VSCode
+.vscode/
